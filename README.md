@@ -1,6 +1,6 @@
 # Chrome Dino-Game Solver
 
-_Made by Satvik, Harsh, Arya, Man Pravesh, and Bharadwaj for the "Introduction to Machine Learning" course_
+_Made by Satvik, Harsh, Aryaman Pravesh, and Bharadwaj for the "Introduction to Machine Learning" course_
 
 <p align="center">
   <img width="auto" height="500px" src="presentation_visuals/dino_game_example.gif"/>
