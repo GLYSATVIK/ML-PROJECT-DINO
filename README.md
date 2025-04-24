@@ -30,7 +30,6 @@ This project implements an AI bot that learns to play Chrome's _No-Internet Dino
 - `dino_solve_jump_threshold.py`: Heuristic bot implementation with grid search optimization.
 - `dino_solver_deepQ.py`: Deep Q-Learning bot with neural network and training loop.
 - `generate_data.py`: Optional script to generate synthetic pretraining data.
-- `threshold_plots/`: Heatmaps showing heuristic performance with different thresholds.
 
 ---
 
